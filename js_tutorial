@@ -1,0 +1,17 @@
+/*
+* 1. JavaScript was created in 1995 by brendan Eich while he was an engineer at Netscape
+* 2. Many parts of the fourth edition formed the basis for ECMAScript edition 5, published in December of 2009
+*/
+
+//overview
+//type
+//Number
+//String
+//Boolean
+//Function
+//Object (function, Array, Date, RegExp)
+//Symbol(new in ES2015)
+//null
+//undefined
+
+
