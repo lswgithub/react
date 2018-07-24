@@ -3,15 +3,35 @@
 * 2. Many parts of the fourth edition formed the basis for ECMAScript edition 5, published in December of 2009
 */
 
-//overview
-//type
+/************************************************* 
+--overview
+*type
+*Number
+*String
+*Boolean
+*Function
+*Object (function, Array, Date, RegExp)
+*Symbol(new in ES2015)
+*null
+*undefined
+*************************************************/
 //Number
-//String
-//Boolean
-//Function
-//Object (function, Array, Date, RegExp)
-//Symbol(new in ES2015)
-//null
-//undefined
+//"double-precision 64-bit format IEEE 754 values"
+//Math
+//parseInt('123',10)           //123을 숫자 10진수로 변경한다.
+//parseFloat('1312321.321312') //always uses base 10.
+//+'42'                        // + operator to convert values to numbers.
+//isNaN()
+//isFinite()
+
+//other types .. JavaScript has a boolean type, with possible values true and false;
+//false, 0 , empty string(""), NaN, null and undefined all become false
+
+
+//Variables
+//let allows you to declare block-level variables.the declared variable is abailable from the block it is enclosed in.
+function letTest() {
+
+}
 
 

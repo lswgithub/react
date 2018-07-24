@@ -1,0 +1,41 @@
+-before to react
+1. node.js (NPM is included with Node.js)
+sudo apt-get install curl
+curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+sudo apt-get install -y nodejs
+
+>node -v
+>npm -v
+-- Node to work properly
+sudo apt-get install -y build-essential
+
+sudo npm install -g create-react-app
+
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd hello-world
+  npm start
+
+/node_modules : contains every Javascript library and configurations
+/public : the files that are going to be public to the server
+/src all of our React components
+
+
+
+
+
+
